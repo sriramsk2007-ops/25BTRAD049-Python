@@ -1,0 +1,615 @@
+%PDF-1.4
+%ˆ‰¸ﬂ
+1 0 obj
+<<
+/Type /Catalog
+/PageMode /UseNone
+/Pages 2 0 R
+/OpenAction 3 0 R
+>>
+endobj
+4 0 obj
+<<
+/Author (Sarvajith Vishwanath)
+/CreationDate (D:20260808164445+00'00')
+/Creator (\(unspecified\))
+/Keywords ()
+/ModDate (D:20260808164445+00'00')
+/Producer (ReportLab PDF Library - \(opensource\))
+/Subject (\(unspecified\))
+/Title (Lab Exercise 1 - Python & IDE Setup \(macOS\))
+/Trapped /False
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 5
+/Kids [5 0 R 6 0 R 7 0 R 8 0 R 9 0 R]
+>>
+endobj
+3 0 obj
+<<
+/Type /Action
+/S /JavaScript
+/JS (this.print\({bUI:true,bSilent:false,bShrinkToFit:true}\);)
+>>
+endobj
+5 0 obj
+<<
+/Type /Page
+/Contents [10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R]
+/MediaBox [0 0 595.2756 841.8898]
+/Parent 2 0 R
+/Resources <<
+/Font <<
+/F1 20 0 R
+/F2 21 0 R
+/F3 22 0 R
+/helv 23 0 R
+>>
+>>
+/Rotate 0
+/Trans <<
+>>
+/Annots []
+>>
+endobj
+6 0 obj
+<<
+/Type /Page
+/Contents [24 0 R 25 0 R 26 0 R 27 0 R 28 0 R 29 0 R]
+/MediaBox [0 0 595.2756 841.8898]
+/Parent 2 0 R
+/Resources <<
+/Font <<
+/F1 20 0 R
+/F2 21 0 R
+/F4 30 0 R
+/F3 22 0 R
+/helv 23 0 R
+>>
+>>
+/Rotate 0
+/Trans <<
+>>
+/Annots []
+>>
+endobj
+7 0 obj
+<<
+/Type /Page
+/Contents [31 0 R 32 0 R 33 0 R 34 0 R 35 0 R 36 0 R]
+/MediaBox [0 0 595.2756 841.8898]
+/Parent 2 0 R
+/Resources <<
+/Font <<
+/F1 20 0 R
+/F4 30 0 R
+/F2 21 0 R
+/F3 22 0 R
+/helv 23 0 R
+>>
+>>
+/Rotate 0
+/Trans <<
+>>
+/Annots []
+>>
+endobj
+8 0 obj
+<<
+/Type /Page
+/Contents [37 0 R 38 0 R 39 0 R 40 0 R 41 0 R 42 0 R]
+/MediaBox [0 0 595.2756 841.8898]
+/Parent 2 0 R
+/Resources <<
+/Font <<
+/F1 20 0 R
+/F2 21 0 R
+/F4 30 0 R
+/F3 22 0 R
+/helv 23 0 R
+>>
+>>
+/Rotate 0
+/Trans <<
+>>
+/Annots []
+>>
+endobj
+9 0 obj
+<<
+/Type /Page
+/Contents [43 0 R 44 0 R 45 0 R 46 0 R 47 0 R 48 0 R 49 0 R 50 0 R 51 0 R 52 0 R]
+/MediaBox [0 0 595.2756 841.8898]
+/Parent 2 0 R
+/Resources <<
+/Font <<
+/F1 20 0 R
+/F2 21 0 R
+/F4 30 0 R
+/F3 22 0 R
+/helv 23 0 R
+>>
+>>
+/Rotate 0
+/Trans <<
+>>
+/Annots []
+>>
+endobj
+10 0 obj
+<<
+/Length 6555
+>>
+stream
+q q .058824 .486275 .54902 rg 0 837.8898 595.2756 4 re f* .6 w 56.69291 42.51969 m 538.5827 42.51969 l S .541176 .592157 .67451 rg BT 9.6 TL/F1 8 Tf 1 0 0 1 56.69291 31.1811 Tm[-9337.001]TJ (  |  USN: )Tj[-6169.001]TJ (  |  Branch: CSE - AIDE "B")Tj T* ET BT 1 0 0 1 513.2307 31.1811 Tm (Page 1)Tj T* ET BT 1 0 0 1 212.2698 31.1811 Tm[-556.00009]TJ <61622045786572636973652031209720507974686f6e20262049444520536574757020286d61634f5329>Tj T* ET Q q 1 0 0 1 59.52756 688.1969 cm .105882 .164706 .290196 rg 0 91 476.2205 -91 re f* q 1 0 0 1 14 51 cm 1 1 1 rg BT 24 TL/F2 20 Tf 1 0 0 1 0 4 Tm (LAB EXERCISE)Tj ( )Tj (-)Tj ( )Tj (1)Tj T* ET Q q 1 0 0 1 14 16 cm .811765 .878431 .917647 rg BT 15 TL/F1 11.5 Tf 1 0 0 1 0 18.5 Tm <496e7374616c6c696e6720507974686f6e2c2053657474696e6720757020565320436f6465202f205079436861726d2c20616e64204a757079746572204e6f7465626f6f6b2097206d61634f53>Tj T* (Guide)Tj T* ET Q Q q 1 0 0 1 59.52756 623.1969 cm .956863 .968627 .980392 rg 0 65 476.2205 -65 re f* q 1 0 0 1 10 42.25 cm .105882 .164706 .290196 rg BT 13 TL/F2 9.5 Tf 1 0 0 1 0 3.5 Tm (Name)Tj T* ET Q q 1 0 0 1 66.69291 41.5 cm .239216 .278431 .34902 rg BT 14.5 TL/F1 10 Tf 1 0 0 1 0 4.5 Tm T* ET Q q 1 0 0 1 10 9.75 cm .105882 .164706 .290196 rg BT 13 TL/F2 9.5 Tf 1 0 0 1 0 3.5 Tm (USN)Tj T* ET Q q 1 0 0 1 66.69291 9 cm .239216 .278431 .34902 rg BT 14.5 TL/F1 10 Tf 1 0 0 1 0 4.5 Tm T* ET Q q 1 0 0 1 236.7717 9.75 cm .105882 .164706 .290196 rg BT 13 TL/F2 9.5 Tf 1 0 0 1 0 3.5 Tm (Branch)Tj T* ET Q q 1 0 0 1 299.1339 9 cm .239216 .278431 .34902 rg BT 14.5 TL/F1 10 Tf 1 0 0 1 0 4.5 Tm (CSE - AIDE "B")Tj T* ET Q q .788235 .827451 .878431 RG 1 J 1 j .8 w 0 65 m 476.2205 65 l S 0 0 m 476.2205 0 l S 0 0 m 0 65 l S 476.2205 0 m 476.2205 65 l S .6 w 0 32.5 m 476.2205 32.5 l S Q Q q 1 0 0 1 62.69291 551.1969 cm .239216 .278431 .34902 rg BT .111163 Tw 14.5 TL/F1 10 Tf 1 0 0 1 0 48 Tm (Before we can start writing and running Python programs, we need three things in place: Python itself \(the)Tj T* .734104 Tw (language and its interpreter\), a code editor or IDE to write programs in \(VS Code and/or PyCharm\), and)Tj T* 2.082126 Tw (Jupyter Notebook for interactive, cell-by-cell coding. This guide walks through setting up all three on)Tj T* 0 Tw (macOS, from a completely fresh machine to a working environment where you can run your first program.)Tj T* ET Q q 1 0 0 1 59.52756 420.1969 cm .956863 .968627 .980392 rg 0 121 476.2205 -121 re f* q 1 0 0 1 14 96 cm .058824 .486275 .54902 rg BT 15 TL/F2 11.5 Tf 1 0 0 1 0 3.5 Tm (Contents)Tj T* ET Q q 1 0 0 1 14 76 cm .239216 .278431 .34902 rg BT 16 TL/F1 10 Tf 1 0 0 1 0 6 Tm (1. Installing Python on macOS)Tj T* ET Q q 1 0 0 1 14 60 cm .239216 .278431 .34902 rg BT 16 TL/F1 10 Tf 1 0 0 1 0 6 Tm (2. Setting up Visual Studio Code \(VS Code\))Tj T* ET Q q 1 0 0 1 14 44 cm .239216 .278431 .34902 rg BT 16 TL/F1 10 Tf 1 0 0 1 0 6 Tm (3. Setting up PyCharm)Tj T* ET Q q 1 0 0 1 14 28 cm .239216 .278431 .34902 rg BT 16 TL/F1 10 Tf 1 0 0 1 0 6 Tm (4. Setting up Jupyter Notebook)Tj T* ET Q q 1 0 0 1 14 12 cm .239216 .278431 .34902 rg BT 16 TL/F1 10 Tf 1 0 0 1 0 6 Tm (5. Verifying Your Setup)Tj T* ET Q q .788235 .827451 .878431 RG 1 J 1 j .8 w 0 121 m 476.2205 121 l S 0 0 m 476.2205 0 l S 0 0 m 0 121 l S 476.2205 0 m 476.2205 121 l S Q Q q 1 0 0 1 59.52756 368.1969 cm .105882 .164706 .290196 rg 0 36 476.2205 -36 re f* q 1 0 0 1 8 12 cm .85098 .643137 .254902 rg BT 12 TL/F2 16 Tf 1 0 0 1 0 -4 Tm (1)Tj T* ET Q q 1 0 0 1 40.85039 9 cm 1 1 1 rg BT 18 TL/F2 14.5 Tf 1 0 0 1 0 3.5 Tm (Installing Python on macOS)Tj T* ET Q Q q 1 0 0 1 62.69291 300.1969 cm .239216 .278431 .34902 rg BT .88686 Tw 14.5 TL/F1 10 Tf 1 0 0 1 0 48 Tm (macOS actually ships with a system version of Python, but it's usually outdated and Apple doesn't want)Tj T* .230542 Tw <796f7520746f756368696e6720697420666f7220796f7572206f776e2070726f6a656374732097206d657373696e672077697468207468652073797374656d20507974686f6e2063616e20627265616b20746f6f6c73206d61634f532072656c696573206f6e>Tj T* .381654 Tw (internally. So the very first step is installing a clean, independent copy of Python that belongs to you. The)Tj T* 0 Tw (easiest and most reliable way to do this is by downloading the official installer from python.org.)Tj T* ET Q q 1 0 0 1 62.69291 278.1969 cm .105882 .164706 .290196 rg BT 14 TL/F2 10.3 Tf 1 0 0 1 0 3.7 Tm <5374657020312e31209720446f776e6c6f61642074686520696e7374616c6c6572>Tj T* ET Q q 1 0 0 1 62.69291 232.6969 cm .239216 .278431 .34902 rg BT .001318 Tw 14.5 TL/F1 10 Tf 1 0 0 1 0 33.5 Tm (Open your browser and go to )Tj/F2 10 Tf (python.org/downloads)Tj/F1 10 Tf (. The site automatically detects that you're on a Mac)Tj T* .829398 Tw (and shows a big yellow button to download the latest stable release \(for example, Python 3.12 or 3.13\).)Tj T* 0 Tw <436c69636b2069742097206120>Tj/F2 10 Tf (.pkg)Tj/F1 10 Tf ( file will start downloading.)Tj T* ET Q q 1 0 0 1 62.69291 210.6969 cm .105882 .164706 .290196 rg BT 14 TL/F2 10.3 Tf 1 0 0 1 0 3.7 Tm <5374657020312e3220972052756e2074686520696e7374616c6c6572>Tj T* ET Q q 1 0 0 1 62.69291 150.6969 cm .239216 .278431 .34902 rg BT .867318 Tw 14.5 TL/F1 10 Tf 1 0 0 1 0 48 Tm (Once the download finishes, open the )Tj/F2 10 Tf (.pkg)Tj/F1 10 Tf ( file from your Downloads folder. This launches the standard)Tj T* .918443 Tw (macOS installer wizard. Click )Tj/F3 10 Tf (Continue)Tj/F1 10 Tf ( through the introduction, read-me, and license screens \(you can)Tj T* .974985 Tw (just accept the license\), then click )Tj/F3 10 Tf (Install)Tj/F1 10 Tf (. macOS will ask for your account password since it's installing)Tj T* 0 Tw <736f6674776172652073797374656d2d77696465209720656e74657220697420616e64206c65742074686520696e7374616c6c65722066696e6973682e>Tj T* ET Q q 1 0 0 1 62.69291 128.6969 cm .105882 .164706 .290196 rg BT 14 TL/F2 10.3 Tf 1 0 0 1 0 3.7 Tm <5374657020312e332097204c65742074686520657874726120736372697074732072756e>Tj T* ET Q q 1 0 0 1 62.69291 68.69685 cm .239216 .278431 .34902 rg BT 3.943984 Tw 14.5 TL/F1 10 Tf 1 0 0 1 0 48 Tm (Towards the end, a Finder window usually pops up showing a few extra files, including )Tj/F3 10 Tf (Install)Tj T* 1.573984 Tw (Certificates.command)Tj/F1 10 Tf <2e20446f75626c652d636c69636b20746861742066696c6520616e64206c65742069742072756e209720697420696e7374616c6c73207468652053534c20726f6f742063657274696669636174657320507974686f6e>Tj T* .71061 Tw (needs to make secure internet connections \(without it, things like )Tj/F2 10 Tf (pip install)Tj/F1 10 Tf ( can fail later with certificate)Tj T* 0 Tw (errors\).)Tj T* ET Q Q
+endstream
+endobj
+11 0 obj
+<<
+/Length 142
+/Filter /FlateDecode
+>>
+stream
+x⁄•ê=AÖ{N¡	?3Ãº÷∆ZÔ`¥›Ω!£ª°!ﬁ˜¥POI8å} ò–‰—j“6¿yΩ—Éå∑∫û˘’¨w>—Öh!ÛwmÉ3´”#$[»îÃ˜˚O~L…Å¸6%∫™∞`bæõ_†-kOo~C%∞/àM©,§U§ü¯O◊˘f
+endstream
+endobj
+12 0 obj
+<<
+/Length 105
+/Filter /FlateDecode
+>>
+stream
+x⁄„*‰r
+·2T0 BCS3=3K#KCc=cs3cÖê\.˝å‘ú2s=KC#†HXµÅBê;îQîÆmcjlndf	ƒÜf)F¶∆fÜÊ&ÊffñfIv±!^\Æ!\Å\ ¯Üü
+endstream
+endobj
+13 0 obj
+<<
+/Length 107
+/Filter /FlateDecode
+>>
+stream
+x⁄„*‰r
+·2T0 BCC#3=##s33=#3sKÖê\.˝å‘ú2K=K#Öê4∞rÖ w(£(]!⁄∆‘ÿ‹»ÃàÕRåLçÕÕMÃÕÃ,ÕíÏbCº∏\C∏π ∑›
+endstream
+endobj
+14 0 obj
+<<
+/Length 105
+/Filter /FlateDecode
+>>
+stream
+x⁄„*‰r
+·2T0 BCS3=3K#KCc=cs3cÖê\.˝å‘ú2s=KC#†HXµÅBê;îQîÆmcjlndf	ƒÜf)F¶∆fÜÊ&ÊffñfIv±!^\Æ!\Å\ ¯Üü
+endstream
+endobj
+15 0 obj
+<<
+/Length 107
+/Filter /FlateDecode
+>>
+stream
+x⁄„*‰r
+·2T0 BCC#3=##s33=#3sKÖê\.˝å‘ú2K=K#Öê4∞rÖ w(£(]!⁄∆‘ÿ‹»ÃàÕRåLçÕÕMÃÕÃ,ÕíÏbCº∏\C∏π ∑›
+endstream
+endobj
+16 0 obj
+<<
+/Length 105
+/Filter /FlateDecode
+>>
+stream
+x⁄„*‰r
+·2T0 BCS3=3K#KCc=cs3cÖê\.˝å‘ú2s=KC#†HXµÅBê;îQîÆmcjlndf	ƒÜf)F¶∆fÜÊ&ÊffñfIv±!^\Æ!\Å\ ¯Üü
+endstream
+endobj
+17 0 obj
+<<
+/Length 107
+/Filter /FlateDecode
+>>
+stream
+x⁄„*‰r
+·2T0 BCC#3=##s33=#3sKÖê\.˝å‘ú2K=K#Öê4∞rÖ w(£(]!⁄∆‘ÿ‹»ÃàÕRåLçÕÕMÃÕÃ,ÕíÏbCº∏\C∏π ∑›
+endstream
+endobj
+18 0 obj
+<<
+/Length 101
+/Filter /FlateDecode
+>>
+stream
+x⁄„*‰r
+·2T0 BCC3c=sKc=cs3cÖê\.˝å‘ú2s=KC#†HXµÅBê;îQîÆmcldljbdjbjdbhbbl`lbli‚≈Â¬» dèﬂ
+endstream
+endobj
+19 0 obj
+<<
+/Length 103
+/Filter /FlateDecode
+>>
+stream
+x⁄„*‰r
+·2T0 BCC#3=##s3cS=s3sKÖê\.˝å‘ú2K=K#Öê4∞rÖ w(£(]!⁄∆ÿ»ÿ‘ƒ»‘ƒ‘»ƒ–ƒƒÿ¿ÿƒÿ“.6ƒãÀ5Ñ+ê ~¸(
+endstream
+endobj
+20 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+>>
+endobj
+21 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+>>
+endobj
+22 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+>>
+endobj
+23 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+>>
+endobj
+24 0 obj
+<<
+/Length 7305
+>>
+stream
+q q .058824 .486275 .54902 rg 0 837.8898 595.2756 4 re f* .6 w 56.69291 42.51969 m 538.5827 42.51969 l S .541176 .592157 .67451 rg BT 9.6 TL/F1 8 Tf 1 0 0 1 56.69291 31.1811 Tm[-9337.001]TJ (  |  USN: )Tj[-6169.001]TJ (  |  Branch: CSE - AIDE "B")Tj T* ET BT 1 0 0 1 513.2307 31.1811 Tm (Page 2)Tj T* ET BT 1 0 0 1 212.2698 31.1811 Tm[-556.00009]TJ <61622045786572636973652031209720507974686f6e20262049444520536574757020286d61634f5329>Tj T* ET Q q 1 0 0 1 62.69291 765.1969 cm .105882 .164706 .290196 rg BT 14 TL/F2 10.3 Tf 1 0 0 1 0 3.7 Tm <5374657020312e34209720436f6e6669726d206974277320696e7374616c6c6564>Tj T* ET Q q 1 0 0 1 62.69291 734.1969 cm .239216 .278431 .34902 rg BT -.068016 Tw 14.5 TL/F1 10 Tf 1 0 0 1 0 19 Tm (Open the )Tj/F2 10 Tf (Terminal)Tj/F1 10 Tf ( app \(press Cmd+Space, type "Terminal", hit Enter\) and run the following commands to)Tj T* 0 Tw (confirm Python and pip \(Python's package manager\) are ready to go:)Tj T* ET Q q 1 0 0 1 59.52756 685.7969 cm 4 0 m 472.2205 0 l 474.4317 0 476.2205 1.7888 476.2205 4 c 476.2205 38.4 l 476.2205 40.6112 474.4317 42.4 472.2205 42.4 c 4 42.4 l 1.7888 42.4 0 40.6112 0 38.4 c 0 4 l 0 1.7888 1.7888 0 4 0 c h W* n .117647 .145098 .188235 rg 0 42.4 476.2205 -42.4 re f* q 1 0 0 1 10 8 cm .909804 .933333 .952941 rg BT 13.2 TL/F4 9.3 Tf 1 0 0 1 0 17.1 Tm (python3)Tj ( )Tj (--version)Tj T* (pip3)Tj ( )Tj (--version)Tj T* ET Q Q q 1 0 0 1 62.69291 638.2969 cm .239216 .278431 .34902 rg BT 2.107126 Tw 14.5 TL/F1 10 Tf 1 0 0 1 0 33.5 Tm (You should see version numbers printed back, something like )Tj/F4 10 Tf (Python 3.12.4)Tj/F1 10 Tf ( and a matching pip)Tj T* .523735 Tw (version. On macOS you'll almost always type )Tj/F2 10 Tf (python3)Tj/F1 10 Tf ( and )Tj/F2 10 Tf (pip3)Tj/F1 10 Tf ( rather than plain )Tj/F2 10 Tf (python)Tj/F1 10 Tf ( and )Tj/F2 10 Tf (pip)Tj/F1 10 Tf (, since)Tj T* 0 Tw (the plain names are reserved for the old system Python 2 installation.)Tj T* ET Q q 1 0 0 1 59.52756 565.6969 cm .917647 .956863 .941176 rg 0 66.6 476.2205 -66.6 re f* q 1 0 0 1 10 46.6 cm .298039 .603922 .509804 rg BT 13 TL/F2 9.5 Tf 1 0 0 1 0 3.5 Tm (TIP)Tj T* ET Q q 1 0 0 1 10 7 cm .239216 .278431 .34902 rg BT 13.2 TL/F1 9.5 Tf 1 0 0 1 0 30.1 Tm (If you plan to work on multiple projects with different Python versions later, look into installing Python via)Tj T* -.031737 Tw/F2 9.5 Tf (Homebrew)Tj/F1 9.5 Tf ( \()Tj/F4 9.5 Tf (brew install python)Tj/F1 9.5 Tf (\) or a version manager like )Tj/F2 9.5 Tf (pyenv)Tj/F1 9.5 Tf (. For a single lab setup like this one,)Tj T* 0 Tw (the official installer above is perfectly fine and the simplest route.)Tj T* ET Q q .298039 .603922 .509804 RG 1 J 1 j 1.1 w 0 66.6 m 476.2205 66.6 l S 0 0 m 476.2205 0 l S 0 0 m 0 66.6 l S 476.2205 0 m 476.2205 66.6 l S 3 w 0 0 m 0 66.6 l S Q Q q 1 0 0 1 59.52756 515.6969 cm .105882 .164706 .290196 rg 0 36 476.2205 -36 re f* q 1 0 0 1 8 12 cm .85098 .643137 .254902 rg BT 12 TL/F2 16 Tf 1 0 0 1 0 -4 Tm (2)Tj T* ET Q q 1 0 0 1 40.85039 9 cm 1 1 1 rg BT 18 TL/F2 14.5 Tf 1 0 0 1 0 3.5 Tm (Setting up Visual Studio Code \(VS Code\))Tj T* ET Q Q q 1 0 0 1 62.69291 462.1969 cm .239216 .278431 .34902 rg BT .801567 Tw 14.5 TL/F1 10 Tf 1 0 0 1 0 33.5 Tm (VS Code is a free, lightweight code editor from Microsoft that has become the default choice for a lot of)Tj T* -.12848 Tw (Python developers because it's fast, highly customizable through extensions, and works well for everything)Tj T* 0 Tw (from small scripts to large projects.)Tj T* ET Q q 1 0 0 1 62.69291 440.1969 cm .105882 .164706 .290196 rg BT 14 TL/F2 10.3 Tf 1 0 0 1 0 3.7 Tm <5374657020322e31209720446f776e6c6f616420565320436f6465>Tj T* ET Q q 1 0 0 1 62.69291 409.1969 cm .239216 .278431 .34902 rg BT 2.122126 Tw 14.5 TL/F1 10 Tf 1 0 0 1 0 19 Tm (Go to )Tj/F2 10 Tf (code.visualstudio.com)Tj/F1 10 Tf ( and click the )Tj/F3 10 Tf (Download for macOS)Tj/F1 10 Tf ( button. This downloads a )Tj/F2 10 Tf (.zip)Tj/F1 10 Tf ( file)Tj T* 0 Tw (containing the application.)Tj T* ET Q q 1 0 0 1 62.69291 387.1969 cm .105882 .164706 .290196 rg BT 14 TL/F2 10.3 Tf 1 0 0 1 0 3.7 Tm <5374657020322e32209720496e7374616c6c206974>Tj T* ET Q q 1 0 0 1 62.69291 341.6969 cm .239216 .278431 .34902 rg BT .43998 Tw 14.5 TL/F1 10 Tf 1 0 0 1 0 33.5 Tm (Open the downloaded zip \(double-clicking it should extract )Tj/F2 10 Tf (Visual Studio Code.app)Tj/F1 10 Tf ( automatically\). Drag)Tj T* 1.371318 Tw (that app into your )Tj/F2 10 Tf (Applications)Tj/F1 10 Tf <20666f6c6465722e205468617427732074686520656e7469726520696e7374616c6c6174696f6e2097206e6f2077697a6172642c206e6f2070617373776f72642070726f6d7074>Tj T* 0 Tw (needed.)Tj T* ET Q q 1 0 0 1 62.69291 319.6969 cm .105882 .164706 .290196 rg BT 14 TL/F2 10.3 Tf 1 0 0 1 0 3.7 Tm <5374657020322e33209720456e61626c65207468652027636f64652720636f6d6d616e6420696e205465726d696e616c>Tj T* ET Q q 1 0 0 1 62.69291 274.1969 cm .239216 .278431 .34902 rg BT .566988 Tw 14.5 TL/F1 10 Tf 1 0 0 1 0 33.5 Tm (This step is optional but genuinely useful: it lets you type )Tj/F2 10 Tf (code .)Tj/F1 10 Tf ( in Terminal to open the current folder in)Tj T* -.124682 Tw (VS Code. Open VS Code, press )Tj/F2 10 Tf (Cmd+Shift+P)Tj/F1 10 Tf ( to open the Command Palette, type "Shell Command", and)Tj T* 0 Tw (select )Tj/F3 10 Tf (Shell Command: Install 'code' command in PATH)Tj/F1 10 Tf (.)Tj T* ET Q q 1 0 0 1 62.69291 252.1969 cm .105882 .164706 .290196 rg BT 14 TL/F2 10.3 Tf 1 0 0 1 0 3.7 Tm <5374657020322e34209720496e7374616c6c2074686520507974686f6e20657874656e73696f6e>Tj T* ET Q q 1 0 0 1 62.69291 192.1969 cm .239216 .278431 .34902 rg BT -.015013 Tw 14.5 TL/F1 10 Tf 1 0 0 1 0 48 Tm (Click the Extensions icon in the left sidebar \(it looks like four small squares\), search for )Tj/F2 10 Tf (Python)Tj/F1 10 Tf (, and install)Tj T* 3.771647 Tw (the official extension published by Microsoft. This single extension gives you syntax highlighting,)Tj T* 1.085366 Tw (IntelliSense \(autocomplete\), debugging support, and the ability to select which Python interpreter to run)Tj T* 0 Tw (your code with.)Tj T* ET Q q 1 0 0 1 62.69291 170.1969 cm .105882 .164706 .290196 rg BT 14 TL/F2 10.3 Tf 1 0 0 1 0 3.7 Tm <5374657020322e3520972053656c65637420796f757220507974686f6e20696e746572707265746572>Tj T* ET Q q 1 0 0 1 62.69291 124.6969 cm .239216 .278431 .34902 rg BT .407132 Tw 14.5 TL/F1 10 Tf 1 0 0 1 0 33.5 Tm (Open any )Tj/F2 10 Tf (.py)Tj/F1 10 Tf ( file \(or create a new one and save it with a .py extension\). In the bottom-right corner of the)Tj T* .462765 Tw <565320436f64652077696e646f7720796f75276c6c207365652074686520696e7465727072657465722076657273696f6e209720636c69636b20697420616e642063686f6f73652074686520507974686f6e203320696e7374616c6c6174696f6e20796f7520736574>Tj T* 0 Tw (up in Section 1.)Tj T* ET Q q 1 0 0 1 62.69291 102.6969 cm .105882 .164706 .290196 rg BT 14 TL/F2 10.3 Tf 1 0 0 1 0 3.7 Tm <5374657020322e3620972052756e20796f757220666972737420736372697074>Tj T* ET Q q 1 0 0 1 62.69291 71.69685 cm .239216 .278431 .34902 rg BT 1.95832 Tw 14.5 TL/F1 10 Tf 1 0 0 1 0 19 Tm (Create a new file called )Tj/F2 10 Tf (hello.py)Tj/F1 10 Tf (, type the line below, save it, and click the Run/Play triangle in the)Tj T* 0 Tw (top-right corner \(or right-click in the editor and choose )Tj/F3 10 Tf (Run Python File in Terminal)Tj/F1 10 Tf (\).)Tj T* ET Q Q
+endstream
+endobj
+25 0 obj
+<<
+/Length 98
+/Filter /FlateDecode
+>>
+stream
+x⁄•Õ1Ä0¿=Ø»¢&mìzeaÜ? XÈˇ@,H»ãeÈd⁄©∫8 ÷$ísîs© k¿∏/¥ëÚïy‰ªÙïöàﬁ|n‚Å^EÌVœ)·¡í´~:? ÒT2@
+endstream
+endobj
+26 0 obj
+<<
+/Length 105
+/Filter /FlateDecode
+>>
+stream
+x⁄„*‰r
+·2T0 BCS3=3K#KCc=cs3cÖê\.˝å‘ú2s=KC#†HXµÅBê;îQîÆmcjlndf	ƒÜf)F¶∆fÜÊ&ÊffñfIv±!^\Æ!\Å\ ¯Üü
+endstream
+endobj
+27 0 obj
+<<
+/Length 105
+/Filter /FlateDecode
+>>
+stream
+x⁄„*‰r
+·2T0 BCS3=3K#KCc=cs3cÖê\.˝å‘ú2s=KC#†HXµÅBê;îQîÆmcjlndf	ƒÜf)F¶∆fÜÊ&ÊffñfIv±!^\Æ!\Å\ ¯Üü
+endstream
+endobj
+28 0 obj
+<<
+/Length 105
+/Filter /FlateDecode
+>>
+stream
+x⁄„*‰r
+·2T0 BCS3=3K#KCc=cs3cÖê\.˝å‘ú2s=KC#†HXµÅBê;îQîÆmcjlndf	ƒÜf)F¶∆fÜÊ&ÊffñfIv±!^\Æ!\Å\ ¯Üü
+endstream
+endobj
+29 0 obj
+<<
+/Length 101
+/Filter /FlateDecode
+>>
+stream
+x⁄„*‰r
+·2T0 BCC3c=sKc=cs3cÖê\.˝å‘ú2s=KC#†HXµÅBê;îQîÆmcldljbdjbjdbhbbl`lbli‚≈Â¬» dèﬂ
+endstream
+endobj
+30 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F4
+>>
+endobj
+31 0 obj
+<<
+/Length 7315
+>>
+stream
+q q .058824 .486275 .54902 rg 0 837.8898 595.2756 4 re f* .6 w 56.69291 42.51969 m 538.5827 42.51969 l S .541176 .592157 .67451 rg BT 9.6 TL/F1 8 Tf 1 0 0 1 56.69291 31.1811 Tm[-9337.001]TJ (  |  USN: )Tj[-6169.001]TJ (  |  Branch: CSE - AIDE "B")Tj T* ET BT 1 0 0 1 513.2307 31.1811 Tm (Page 3)Tj T* ET BT 1 0 0 1 212.2698 31.1811 Tm[-556.00009]TJ <61622045786572636973652031209720507974686f6e20262049444520536574757020286d61634f5329>Tj T* ET Q q 1 0 0 1 59.52756 749.9969 cm 4 0 m 472.2205 0 l 474.4317 0 476.2205 1.7888 476.2205 4 c 476.2205 25.2 l 476.2205 27.4112 474.4317 29.2 472.2205 29.2 c 4 29.2 l 1.7888 29.2 0 27.4112 0 25.2 c 0 4 l 0 1.7888 1.7888 0 4 0 c h W* n .117647 .145098 .188235 rg 0 29.2 476.2205 -29.2 re f* q 1 0 0 1 10 8 cm .909804 .933333 .952941 rg BT 13.2 TL/F4 9.3 Tf 1 0 0 1 0 3.9 Tm (print\("Hello,)Tj ( )Tj (world!"\))Tj T* ET Q Q q 1 0 0 1 62.69291 716.9969 cm .239216 .278431 .34902 rg BT .489986 Tw 14.5 TL/F1 10 Tf 1 0 0 1 0 19 Tm (You should see )Tj/F4 10 Tf (Hello, world!)Tj/F1 10 Tf ( printed in the integrated terminal panel that opens at the bottom of the)Tj T* 0 Tw (window.)Tj T* ET Q q 1 0 0 1 59.52756 660.9969 cm .105882 .164706 .290196 rg 0 36 476.2205 -36 re f* q 1 0 0 1 8 12 cm .85098 .643137 .254902 rg BT 12 TL/F2 16 Tf 1 0 0 1 0 -4 Tm (3)Tj T* ET Q q 1 0 0 1 40.85039 9 cm 1 1 1 rg BT 18 TL/F2 14.5 Tf 1 0 0 1 0 3.5 Tm (Setting up PyCharm)Tj T* ET Q Q q 1 0 0 1 62.69291 592.9969 cm .239216 .278431 .34902 rg BT 2.187984 Tw 14.5 TL/F1 10 Tf 1 0 0 1 0 48 Tm (PyCharm is a full-featured IDE built specifically for Python by JetBrains. Compared to VS Code, it's)Tj T* .444987 Tw (heavier but comes with a lot of Python-specific tooling built in out of the box \(refactoring tools, a powerful)Tj T* 1.343828 Tw (debugger, database tools, and deep project management\). The free )Tj/F2 10 Tf (Community Edition)Tj/F1 10 Tf ( is more than)Tj T* 0 Tw (enough for coursework and lab exercises.)Tj T* ET Q q 1 0 0 1 62.69291 570.9969 cm .105882 .164706 .290196 rg BT 14 TL/F2 10.3 Tf 1 0 0 1 0 3.7 Tm <5374657020332e31209720446f776e6c6f6164205079436861726d20436f6d6d756e6974792045646974696f6e>Tj T* ET Q q 1 0 0 1 62.69291 525.4969 cm .239216 .278431 .34902 rg BT 1.411647 Tw 14.5 TL/F1 10 Tf 1 0 0 1 0 33.5 Tm (Visit )Tj/F2 10 Tf (jetbrains.com/pycharm/download)Tj/F1 10 Tf (, make sure the macOS tab is selected, and choose your chip)Tj T* .157485 Tw <74797065209720>Tj/F3 10 Tf (Apple Silicon)Tj/F1 10 Tf ( for M1/M2/M3/M4 Macs, or )Tj/F3 10 Tf (Intel)Tj/F1 10 Tf ( for older Macs. Under the free )Tj/F2 10 Tf (Community)Tj/F1 10 Tf ( column,)Tj T* 0 Tw (click )Tj/F3 10 Tf (Download)Tj/F1 10 Tf (.)Tj T* ET Q q 1 0 0 1 62.69291 503.4969 cm .105882 .164706 .290196 rg BT 14 TL/F2 10.3 Tf 1 0 0 1 0 3.7 Tm <5374657020332e32209720496e7374616c6c2074686520617070>Tj T* ET Q q 1 0 0 1 62.69291 457.9969 cm .239216 .278431 .34902 rg BT .569986 Tw 14.5 TL/F1 10 Tf 1 0 0 1 0 33.5 Tm (Open the downloaded )Tj/F2 10 Tf (.dmg)Tj/F1 10 Tf ( file. A window will appear showing the PyCharm icon and a shortcut to your)Tj T* .76528 Tw <4170706c69636174696f6e7320666f6c6465722097206472616720746865205079436861726d2069636f6e206f6e746f20746865204170706c69636174696f6e7320666f6c6465722069636f6e20746f20696e7374616c6c2069742c207468656e20656a65637420746865>Tj T* 0 Tw (disk image.)Tj T* ET Q q 1 0 0 1 62.69291 435.9969 cm .105882 .164706 .290196 rg BT 14 TL/F2 10.3 Tf 1 0 0 1 0 3.7 Tm <5374657020332e332097204669727374206c61756e636820616e642073657475702077697a617264>Tj T* ET Q q 1 0 0 1 62.69291 390.4969 cm .239216 .278431 .34902 rg BT 1.427318 Tw 14.5 TL/F1 10 Tf 1 0 0 1 0 33.5 Tm <4f70656e205079436861726d2066726f6d204170706c69636174696f6e7320286d61634f53206d6179207761726e20796f752069742077617320646f776e6c6f616465642066726f6d2074686520696e7465726e6574209720636c69636b>Tj T* .860988 Tw/F3 10 Tf (Open)Tj/F1 10 Tf ( to allow it\). On first launch you'll be guided through a short setup wizard where you can pick a UI)Tj T* 0 Tw <7468656d6520284c696768742f4461726b2920616e64206b65796d61702097207468652064656661756c7473206172652066696e6520746f20737461727420776974682e>Tj T* ET Q q 1 0 0 1 62.69291 368.4969 cm .105882 .164706 .290196 rg BT 14 TL/F2 10.3 Tf 1 0 0 1 0 3.7 Tm <5374657020332e342097204372656174652061206e65772070726f6a656374>Tj T* ET Q q 1 0 0 1 62.69291 322.9969 cm .239216 .278431 .34902 rg BT -.094016 Tw 14.5 TL/F1 10 Tf 1 0 0 1 0 33.5 Tm (From the Welcome screen, click )Tj/F2 10 Tf (New Project)Tj/F1 10 Tf (. Choose a location/folder for it, and under )Tj/F3 10 Tf (Python Interpreter)Tj/F1 10 Tf T* 3.33816 Tw (select )Tj/F2 10 Tf (New environment using Virtualenv)Tj/F1 10 Tf <20287265636f6d6d656e64656420972074686973206b6565707320656163682070726f6a6563742773207061636b61676573>Tj T* 0 Tw (isolated\) or point it at the system interpreter you installed in Section 1. Click )Tj/F2 10 Tf (Create)Tj/F1 10 Tf (.)Tj T* ET Q q 1 0 0 1 62.69291 300.9969 cm .105882 .164706 .290196 rg BT 14 TL/F2 10.3 Tf 1 0 0 1 0 3.7 Tm <5374657020332e3520972052756e20796f757220666972737420736372697074>Tj T* ET Q q 1 0 0 1 62.69291 269.9969 cm .239216 .278431 .34902 rg BT .460542 Tw 14.5 TL/F1 10 Tf 1 0 0 1 0 19 Tm (Right-click the project folder in the left sidebar, choose )Tj/F3 10 Tf (New > Python File)Tj/F1 10 Tf (, name it )Tj/F2 10 Tf (hello.py)Tj/F1 10 Tf (, and add the)Tj T* 0 Tw (same print statement as before:)Tj T* ET Q q 1 0 0 1 59.52756 234.7969 cm 4 0 m 472.2205 0 l 474.4317 0 476.2205 1.7888 476.2205 4 c 476.2205 25.2 l 476.2205 27.4112 474.4317 29.2 472.2205 29.2 c 4 29.2 l 1.7888 29.2 0 27.4112 0 25.2 c 0 4 l 0 1.7888 1.7888 0 4 0 c h W* n .117647 .145098 .188235 rg 0 29.2 476.2205 -29.2 re f* q 1 0 0 1 10 8 cm .909804 .933333 .952941 rg BT 13.2 TL/F4 9.3 Tf 1 0 0 1 0 3.9 Tm (print\("Hello)Tj ( )Tj (from)Tj ( )Tj (PyCharm!"\))Tj T* ET Q Q q 1 0 0 1 62.69291 201.7969 cm .239216 .278431 .34902 rg BT .140542 Tw 14.5 TL/F1 10 Tf 1 0 0 1 0 19 Tm (Right-click anywhere inside the editor and select )Tj/F3 10 Tf (Run 'hello')Tj/F1 10 Tf ( \(or click the green play button next to the line,)Tj T* 0 Tw (or press )Tj/F2 10 Tf (Ctrl+Shift+R)Tj/F1 10 Tf (\). The output appears in the Run panel at the bottom.)Tj T* ET Q q 1 0 0 1 59.52756 129.1969 cm .917647 .956863 .941176 rg 0 66.6 476.2205 -66.6 re f* q 1 0 0 1 10 46.6 cm .298039 .603922 .509804 rg BT 13 TL/F2 9.5 Tf 1 0 0 1 0 3.5 Tm (NOTE)Tj T* ET Q q 1 0 0 1 10 7 cm .239216 .278431 .34902 rg BT 13.2 TL/F1 9.5 Tf 1 0 0 1 0 30.1 Tm <596f7520646f6e2774206e65656420626f746820565320436f646520616e64205079436861726d2097207069636b20776869636865766572206669747320796f757220776f726b666c6f772e204d616e792073747564656e7473206b656570205653>Tj T* (Code for quick scripts and general-purpose editing, and switch to PyCharm for larger, structured projects.)Tj T* (Both are used side by side in this guide simply so you're comfortable with either one.)Tj T* ET Q q .298039 .603922 .509804 RG 1 J 1 j 1.1 w 0 66.6 m 476.2205 66.6 l S 0 0 m 476.2205 0 l S 0 0 m 0 66.6 l S 476.2205 0 m 476.2205 66.6 l S 3 w 0 0 m 0 66.6 l S Q Q q 1 0 0 1 59.52756 79.19685 cm .105882 .164706 .290196 rg 0 36 476.2205 -36 re f* q 1 0 0 1 8 12 cm .85098 .643137 .254902 rg BT 12 TL/F2 16 Tf 1 0 0 1 0 -4 Tm (4)Tj T* ET Q q 1 0 0 1 40.85039 9 cm 1 1 1 rg BT 18 TL/F2 14.5 Tf 1 0 0 1 0 3.5 Tm (Setting up Jupyter Notebook)Tj T* ET Q Q Q
+endstream
+endobj
+32 0 obj
+<<
+/Length 98
+/Filter /FlateDecode
+>>
+stream
+x⁄•Õ1Ä0¿=Ø»¢&mìzeaÜ? XÈˇ@,H»ãeÈd⁄©∫8 ÷$ísîs© k¿∏/¥ëÚïy‰ªÙïöàﬁ|n‚Å^EÌVœ)·¡í´~:? ÒT2@
+endstream
+endobj
+33 0 obj
+<<
+/Length 105
+/Filter /FlateDecode
+>>
+stream
+x⁄„*‰r
+·2T0 BCS3=3K#KCc=cs3cÖê\.˝å‘ú2s=KC#†HXµÅBê;îQîÆmcjlndf	ƒÜf)F¶∆fÜÊ&ÊffñfIv±!^\Æ!\Å\ ¯Üü
+endstream
+endobj
+34 0 obj
+<<
+/Length 105
+/Filter /FlateDecode
+>>
+stream
+x⁄„*‰r
+·2T0 BCS3=3K#KCc=cs3cÖê\.˝å‘ú2s=KC#†HXµÅBê;îQîÆmcjlndf	ƒÜf)F¶∆fÜÊ&ÊffñfIv±!^\Æ!\Å\ ¯Üü
+endstream
+endobj
+35 0 obj
+<<
+/Length 105
+/Filter /FlateDecode
+>>
+stream
+x⁄„*‰r
+·2T0 BCS3=3K#KCc=cs3cÖê\.˝å‘ú2s=KC#†HXµÅBê;îQîÆmcjlndf	ƒÜf)F¶∆fÜÊ&ÊffñfIv±!^\Æ!\Å\ ¯Üü
+endstream
+endobj
+36 0 obj
+<<
+/Length 101
+/Filter /FlateDecode
+>>
+stream
+x⁄„*‰r
+·2T0 BCC3c=sKc=cs3cÖê\.˝å‘ú2s=KC#†HXµÅBê;îQîÆmcldljbdjbjdbhbbl`lbli‚≈Â¬» dèﬂ
+endstream
+endobj
+37 0 obj
+<<
+/Length 6975
+>>
+stream
+q q .058824 .486275 .54902 rg 0 837.8898 595.2756 4 re f* .6 w 56.69291 42.51969 m 538.5827 42.51969 l S .541176 .592157 .67451 rg BT 9.6 TL/F1 8 Tf 1 0 0 1 56.69291 31.1811 Tm[-9337.001]TJ (  |  USN: )Tj[-6169.001]TJ (  |  Branch: CSE - AIDE "B")Tj T* ET BT 1 0 0 1 513.2307 31.1811 Tm (Page 4)Tj T* ET BT 1 0 0 1 212.2698 31.1811 Tm[-556.00009]TJ <61622045786572636973652031209720507974686f6e20262049444520536574757020286d61634f5329>Tj T* ET Q q 1 0 0 1 62.69291 721.1969 cm .239216 .278431 .34902 rg BT .446457 Tw 14.5 TL/F1 10 Tf 1 0 0 1 0 48 Tm (Jupyter Notebook lets you write and run Python in individual "cells" inside a web browser, with the output)Tj T* .276235 Tw (\(including plots and tables\) displayed right below the code that produced it. It's especially popular for data)Tj T* .494983 Tw (analysis, experimentation, and lab work where you want to see results immediately without re-running an)Tj T* 0 Tw (entire script.)Tj T* ET Q q 1 0 0 1 62.69291 699.1969 cm .105882 .164706 .290196 rg BT 14 TL/F2 10.3 Tf 1 0 0 1 0 3.7 Tm <5374657020342e312097204f70656e205465726d696e616c>Tj T* ET Q q 1 0 0 1 62.69291 668.1969 cm .239216 .278431 .34902 rg BT 3.383059 Tw 14.5 TL/F1 10 Tf 1 0 0 1 0 19 Tm (Press )Tj/F2 10 Tf (Cmd+Space)Tj/F1 10 Tf (, type "Terminal", and press Enter. All the Jupyter setup happens through the)Tj T* 0 Tw (command line.)Tj T* ET Q q 1 0 0 1 62.69291 646.1969 cm .105882 .164706 .290196 rg BT 14 TL/F2 10.3 Tf 1 0 0 1 0 3.7 Tm <5374657020342e32209720496e7374616c6c204a757079746572207769746820706970>Tj T* ET Q q 1 0 0 1 62.69291 629.6969 cm .239216 .278431 .34902 rg BT 14.5 TL/F1 10 Tf 1 0 0 1 0 4.5 Tm (With Python already installed from Section 1, installing Jupyter is a single command:)Tj T* ET Q q 1 0 0 1 59.52756 594.4969 cm 4 0 m 472.2205 0 l 474.4317 0 476.2205 1.7888 476.2205 4 c 476.2205 25.2 l 476.2205 27.4112 474.4317 29.2 472.2205 29.2 c 4 29.2 l 1.7888 29.2 0 27.4112 0 25.2 c 0 4 l 0 1.7888 1.7888 0 4 0 c h W* n .117647 .145098 .188235 rg 0 29.2 476.2205 -29.2 re f* q 1 0 0 1 10 8 cm .909804 .933333 .952941 rg BT 13.2 TL/F4 9.3 Tf 1 0 0 1 0 3.9 Tm (pip3)Tj ( )Tj (install)Tj ( )Tj (notebook)Tj T* ET Q Q q 1 0 0 1 62.69291 561.4969 cm .239216 .278431 .34902 rg BT .708735 Tw 14.5 TL/F1 10 Tf 1 0 0 1 0 19 Tm (This downloads and installs Jupyter along with its dependencies. It may take a minute or two depending)Tj T* 0 Tw (on your internet connection.)Tj T* ET Q q 1 0 0 1 62.69291 539.4969 cm .105882 .164706 .290196 rg BT 14 TL/F2 10.3 Tf 1 0 0 1 0 3.7 Tm <5374657020342e332097204c61756e6368204a757079746572204e6f7465626f6f6b>Tj T* ET Q q 1 0 0 1 62.69291 508.4969 cm .239216 .278431 .34902 rg BT .92881 Tw 14.5 TL/F1 10 Tf 1 0 0 1 0 19 Tm (Navigate to the folder where you want your notebooks to live \(for example your Desktop or a dedicated)Tj T* 0 Tw (project folder\), then start the notebook server:)Tj T* ET Q q 1 0 0 1 59.52756 460.0969 cm 4 0 m 472.2205 0 l 474.4317 0 476.2205 1.7888 476.2205 4 c 476.2205 38.4 l 476.2205 40.6112 474.4317 42.4 472.2205 42.4 c 4 42.4 l 1.7888 42.4 0 40.6112 0 38.4 c 0 4 l 0 1.7888 1.7888 0 4 0 c h W* n .117647 .145098 .188235 rg 0 42.4 476.2205 -42.4 re f* q 1 0 0 1 10 8 cm .909804 .933333 .952941 rg BT 13.2 TL/F4 9.3 Tf 1 0 0 1 0 17.1 Tm (cd)Tj ( )Tj (~/Desktop)Tj T* (jupyter)Tj ( )Tj (notebook)Tj T* ET Q Q q 1 0 0 1 62.69291 427.0969 cm .239216 .278431 .34902 rg BT .537633 Tw 14.5 TL/F1 10 Tf 1 0 0 1 0 19 Tm (This starts a local server and automatically opens a new tab in your default browser showing the Jupyter)Tj T* 0 Tw <66696c652064617368626f6172642e204b65657020746865205465726d696e616c2077696e646f77206f70656e20696e20746865206261636b67726f756e64209720636c6f73696e67206974207368757473207468652073657276657220646f776e2e>Tj T* ET Q q 1 0 0 1 62.69291 405.0969 cm .105882 .164706 .290196 rg BT 14 TL/F2 10.3 Tf 1 0 0 1 0 3.7 Tm <5374657020342e342097204372656174652061206e6577206e6f7465626f6f6b>Tj T* ET Q q 1 0 0 1 62.69291 374.0969 cm .239216 .278431 .34902 rg BT .784987 Tw 14.5 TL/F1 10 Tf 1 0 0 1 0 19 Tm (In the browser tab, click the )Tj/F2 10 Tf (New)Tj/F1 10 Tf ( button on the right and select )Tj/F2 10 Tf (Python 3)Tj/F1 10 Tf ( \(sometimes labelled )Tj/F3 10 Tf (Python 3)Tj T* 0 Tw (\(ipykernel\))Tj/F1 10 Tf (\). This opens a fresh notebook with one empty, ready-to-use cell.)Tj T* ET Q q 1 0 0 1 62.69291 352.0969 cm .105882 .164706 .290196 rg BT 14 TL/F2 10.3 Tf 1 0 0 1 0 3.7 Tm <5374657020342e3520972052756e20796f75722066697273742063656c6c>Tj T* ET Q q 1 0 0 1 62.69291 321.0969 cm .239216 .278431 .34902 rg BT .107209 Tw 14.5 TL/F1 10 Tf 1 0 0 1 0 19 Tm (Click into the first cell, type the following, then press )Tj/F2 10 Tf (Shift+Enter)Tj/F1 10 Tf ( to run it \(Shift+Enter runs the current cell)Tj T* 0 Tw (and moves to the next one\):)Tj T* ET Q q 1 0 0 1 59.52756 285.8969 cm 4 0 m 472.2205 0 l 474.4317 0 476.2205 1.7888 476.2205 4 c 476.2205 25.2 l 476.2205 27.4112 474.4317 29.2 472.2205 29.2 c 4 29.2 l 1.7888 29.2 0 27.4112 0 25.2 c 0 4 l 0 1.7888 1.7888 0 4 0 c h W* n .117647 .145098 .188235 rg 0 29.2 476.2205 -29.2 re f* q 1 0 0 1 10 8 cm .909804 .933333 .952941 rg BT 13.2 TL/F4 9.3 Tf 1 0 0 1 0 3.9 Tm (print\("Hello)Tj ( )Tj (from)Tj ( )Tj (Jupyter)Tj ( )Tj (Notebook!"\))Tj T* ET Q Q q 1 0 0 1 62.69291 238.3969 cm .239216 .278431 .34902 rg BT 1.384431 Tw 14.5 TL/F1 10 Tf 1 0 0 1 0 33.5 Tm (The output appears directly beneath the cell. You can keep adding new cells \(with the )Tj/F2 10 Tf (+)Tj/F1 10 Tf ( button in the)Tj T* 2.892339 Tw (toolbar\) to build up your work step by step, mixing code cells with Markdown cells for notes and)Tj T* 0 Tw (explanations.)Tj T* ET Q q 1 0 0 1 59.52756 165.7969 cm .988235 .945098 .894118 rg 0 66.6 476.2205 -66.6 re f* q 1 0 0 1 10 46.6 cm .709804 .47451 .117647 rg BT 13 TL/F2 9.5 Tf 1 0 0 1 0 3.5 Tm (WARNING)Tj T* ET Q q 1 0 0 1 10 7 cm .239216 .278431 .34902 rg BT 13.2 TL/F1 9.5 Tf 1 0 0 1 0 30.1 Tm (If running )Tj/F4 9.5 Tf (jupyter notebook)Tj/F1 9.5 Tf ( gives a "command not found" error, it usually means pip installed it to a)Tj T* (location that isn't in your Terminal's PATH. Try )Tj/F4 9.5 Tf (python3 -m notebook)Tj/F1 9.5 Tf <20696e73746561642097207468697320616c7761797320776f726b73>Tj T* (because it runs Jupyter through Python directly.)Tj T* ET Q q .85098 .643137 .254902 RG 1 J 1 j 1.1 w 0 66.6 m 476.2205 66.6 l S 0 0 m 476.2205 0 l S 0 0 m 0 66.6 l S 476.2205 0 m 476.2205 66.6 l S 3 w 0 0 m 0 66.6 l S Q Q q 1 0 0 1 59.52756 115.7969 cm .105882 .164706 .290196 rg 0 36 476.2205 -36 re f* q 1 0 0 1 8 12 cm .85098 .643137 .254902 rg BT 12 TL/F2 16 Tf 1 0 0 1 0 -4 Tm (5)Tj T* ET Q q 1 0 0 1 40.85039 9 cm 1 1 1 rg BT 18 TL/F2 14.5 Tf 1 0 0 1 0 3.5 Tm (Verifying Your Setup)Tj T* ET Q Q q 1 0 0 1 62.69291 76.79685 cm .239216 .278431 .34902 rg BT .058935 Tw 14.5 TL/F1 10 Tf 1 0 0 1 0 19 Tm (Before moving on to actual lab work, it's worth doing a final sanity check to make sure everything from this)Tj T* 0 Tw (guide is working correctly.)Tj T* ET Q Q
+endstream
+endobj
+38 0 obj
+<<
+/Length 98
+/Filter /FlateDecode
+>>
+stream
+x⁄•Õ1Ä0¿=Ø»¢&mìzeaÜ? XÈˇ@,H»ãeÈd⁄©∫8 ÷$ísîs© k¿∏/¥ëÚïy‰ªÙïöàﬁ|n‚Å^EÌVœ)·¡í´~:? ÒT2@
+endstream
+endobj
+39 0 obj
+<<
+/Length 105
+/Filter /FlateDecode
+>>
+stream
+x⁄„*‰r
+·2T0 BCS3=3K#KCc=cs3cÖê\.˝å‘ú2s=KC#†HXµÅBê;îQîÆmcjlndf	ƒÜf)F¶∆fÜÊ&ÊffñfIv±!^\Æ!\Å\ ¯Üü
+endstream
+endobj
+40 0 obj
+<<
+/Length 105
+/Filter /FlateDecode
+>>
+stream
+x⁄„*‰r
+·2T0 BCS3=3K#KCc=cs3cÖê\.˝å‘ú2s=KC#†HXµÅBê;îQîÆmcjlndf	ƒÜf)F¶∆fÜÊ&ÊffñfIv±!^\Æ!\Å\ ¯Üü
+endstream
+endobj
+41 0 obj
+<<
+/Length 105
+/Filter /FlateDecode
+>>
+stream
+x⁄„*‰r
+·2T0 BCS3=3K#KCc=cs3cÖê\.˝å‘ú2s=KC#†HXµÅBê;îQîÆmcjlndf	ƒÜf)F¶∆fÜÊ&ÊffñfIv±!^\Æ!\Å\ ¯Üü
+endstream
+endobj
+42 0 obj
+<<
+/Length 101
+/Filter /FlateDecode
+>>
+stream
+x⁄„*‰r
+·2T0 BCC3c=sKc=cs3cÖê\.˝å‘ú2s=KC#†HXµÅBê;îQîÆmcldljbdjbjdbhbbl`lbli‚≈Â¬» dèﬂ
+endstream
+endobj
+43 0 obj
+<<
+/Length 4172
+>>
+stream
+q q .058824 .486275 .54902 rg 0 837.8898 595.2756 4 re f* .6 w 56.69291 42.51969 m 538.5827 42.51969 l S .541176 .592157 .67451 rg BT 9.6 TL/F1 8 Tf 1 0 0 1 56.69291 31.1811 Tm[-9337.001]TJ (  |  USN: )Tj[-6169.001]TJ (  |  Branch: CSE - AIDE "B")Tj T* ET BT 1 0 0 1 513.2307 31.1811 Tm (Page 5)Tj T* ET BT 1 0 0 1 212.2698 31.1811 Tm[-556.00009]TJ <61622045786572636973652031209720507974686f6e20262049444520536574757020286d61634f5329>Tj T* ET Q q 1 0 0 1 59.52756 584.7969 cm .058824 .486275 .54902 rg 0 194.4 476.2205 -25.600007 re f* 1 1 1 rg 0 168.8 476.2205 -25.600007 re f* .956863 .968627 .980392 rg 0 143.2 476.2205 -25.599999 re f* 1 1 1 rg 0 117.6 476.2205 -39.200006 re f* .956863 .968627 .980392 rg 0 78.4 476.2205 -39.2 re f* 1 1 1 rg 0 39.2 476.2205 -39.2 re f* q 1 0 0 1 8 174.8 cm .239216 .278431 .34902 rg BT 13.6 TL/F2 9.8 Tf 1 0 0 1 0 3.8 Tm (Check)Tj T* ET Q q 1 0 0 1 115.7165 174.8 cm .239216 .278431 .34902 rg BT 13.6 TL/F2 9.8 Tf 1 0 0 1 0 3.8 Tm (Command / Action)Tj T* ET Q q 1 0 0 1 280.126 174.8 cm .239216 .278431 .34902 rg BT 13.6 TL/F2 9.8 Tf 1 0 0 1 0 3.8 Tm (Expected Result)Tj T* ET Q q 1 0 0 1 8 149.2 cm .239216 .278431 .34902 rg BT 13.6 TL/F1 9.8 Tf 1 0 0 1 0 3.8 Tm (Python installed)Tj T* ET Q q 1 0 0 1 115.7165 149.2 cm .239216 .278431 .34902 rg BT 13.6 TL/F4 8.6 Tf 1 0 0 1 0 5 Tm (python3 --version)Tj T* ET Q q 1 0 0 1 280.126 149.2 cm .239216 .278431 .34902 rg BT 13.6 TL/F1 9.8 Tf 1 0 0 1 0 3.8 Tm (Prints a version like Python 3.12.x)Tj T* ET Q q 1 0 0 1 8 123.6 cm .239216 .278431 .34902 rg BT 13.6 TL/F1 9.8 Tf 1 0 0 1 0 3.8 Tm (pip installed)Tj T* ET Q q 1 0 0 1 115.7165 123.6 cm .239216 .278431 .34902 rg BT 13.6 TL/F4 8.6 Tf 1 0 0 1 0 5 Tm (pip3 --version)Tj T* ET Q q 1 0 0 1 280.126 123.6 cm .239216 .278431 .34902 rg BT 13.6 TL/F1 9.8 Tf 1 0 0 1 0 3.8 Tm (Prints a matching pip version)Tj T* ET Q q 1 0 0 1 8 84.4 cm .239216 .278431 .34902 rg BT 13.6 TL/F1 9.8 Tf 1 0 0 1 0 17.4 Tm (VS Code runs)Tj T* (Python)Tj T* ET Q q 1 0 0 1 115.7165 84.4 cm .239216 .278431 .34902 rg BT 13.6 TL/F4 8.6 Tf 1 0 0 1 0 18.6 Tm (Run hello.py via the Play)Tj T* (button)Tj T* ET Q q 1 0 0 1 280.126 91.2 cm .239216 .278431 .34902 rg BT 13.6 TL/F1 9.8 Tf 1 0 0 1 0 3.8 Tm (Output appears in integrated terminal)Tj T* ET Q q 1 0 0 1 8 45.2 cm .239216 .278431 .34902 rg BT 13.6 TL/F1 9.8 Tf 1 0 0 1 0 17.4 Tm (PyCharm runs)Tj T* (Python)Tj T* ET Q q 1 0 0 1 115.7165 45.2 cm .239216 .278431 .34902 rg BT 13.6 TL/F4 8.6 Tf 1 0 0 1 0 18.6 Tm (Run hello.py via right-click)Tj T* (> Run)Tj T* ET Q q 1 0 0 1 280.126 52 cm .239216 .278431 .34902 rg BT 13.6 TL/F1 9.8 Tf 1 0 0 1 0 3.8 Tm (Output appears in Run panel)Tj T* ET Q q 1 0 0 1 8 12.8 cm .239216 .278431 .34902 rg BT 13.6 TL/F1 9.8 Tf 1 0 0 1 0 3.8 Tm (Jupyter works)Tj T* ET Q q 1 0 0 1 115.7165 6 cm .239216 .278431 .34902 rg BT 13.6 TL/F4 8.6 Tf 1 0 0 1 0 18.6 Tm (jupyter notebook, then run a)Tj T* (cell)Tj T* ET Q q 1 0 0 1 280.126 12.8 cm .239216 .278431 .34902 rg BT 13.6 TL/F1 9.8 Tf 1 0 0 1 0 3.8 Tm (Browser opens; cell output shows below it)Tj T* ET Q q .788235 .827451 .878431 RG 1 J 1 j .6 w 0 194.4 m 476.2205 194.4 l S 0 0 m 476.2205 0 l S 0 0 m 0 194.4 l S 476.2205 0 m 476.2205 194.4 l S 0 168.8 m 476.2205 168.8 l S 0 143.2 m 476.2205 143.2 l S 0 117.6 m 476.2205 117.6 l S 0 78.4 m 476.2205 78.4 l S 0 39.2 m 476.2205 39.2 l S 107.7165 0 m 107.7165 194.4 l S 272.126 0 m 272.126 194.4 l S Q Q q 1 0 0 1 62.69291 531.2969 cm .239216 .278431 .34902 rg BT 2.206098 Tw 14.5 TL/F1 10 Tf 1 0 0 1 0 33.5 Tm <4f6e636520616c6c206669766520636865636b7320706173732c20796f7572204d61632069732066756c6c792073657420757020666f7220507974686f6e20646576656c6f706d656e74209720796f752068617665206120776f726b696e67>Tj T* .829982 Tw (interpreter, two capable editors/IDEs to choose from, and an interactive notebook environment ready for)Tj T* 0 Tw (the lab exercises ahead.)Tj T* ET Q q 1 0 0 1 62.69291 512.0969 cm .788235 .827451 .878431 RG 1 J 1.2 w 0 0 m 469.8898 0 l S Q q 1 0 0 1 62.69291 494.0969 cm .541176 .592157 .67451 rg BT 12 TL/F3 9 Tf 1 0 0 1 0 3 Tm (Prepared for Lab Exercise 1 by )Tj[-9337.001]TJ <20972055534e20>Tj[-6169.001]TJ (, Branch CSE - AIDE "B".)Tj T* ET Q Q
+endstream
+endobj
+44 0 obj
+<<
+/Length 145
+/Filter /FlateDecode
+>>
+stream
+x⁄ùè1AE{N¡	00√om¨ıF€›˚Ój°âÖìÕ·Á=h°Ï“·0ˆíQ–Œ#∂Ml*ÄÛz£Ôs=Û;¨w>—Öh!+àßÇ![®mé¡Êb’ˇÙ˘≠§ÁGì¥@ÊõòÖ∑’ó¸‹zì±›‡ii≥œ7›{U_ôíÆà	Å'™e
+endstream
+endobj
+45 0 obj
+<<
+/Length 105
+/Filter /FlateDecode
+>>
+stream
+x⁄„*‰r
+·2T0 BCS3=3K#KCc=cs3cÖê\.˝å‘ú2s=KC#†HXµÅBê;îQîÆmcjlndf	ƒÜf)F¶∆fÜÊ&ÊffñfIv±!^\Æ!\Å\ ¯Üü
+endstream
+endobj
+46 0 obj
+<<
+/Length 105
+/Filter /FlateDecode
+>>
+stream
+x⁄„*‰r
+·2T0 BCCK=#SKK3=c3Öê\.˝å‘ú2=sscK#cÖê4∞bÖ w(£(]!⁄∆‘ÿ‹»ÃàÕRåLçÕÕMÃÕÃ,ÕíÏbCº∏\C∏π Ë ~
+endstream
+endobj
+47 0 obj
+<<
+/Length 105
+/Filter /FlateDecode
+>>
+stream
+x⁄„*‰r
+·2T0 BCS3=3K#KCc=cs3cÖê\.˝å‘ú2s=KC#†HXµÅBê;îQîÆmcjlndf	ƒÜf)F¶∆fÜÊ&ÊffñfIv±!^\Æ!\Å\ ¯Üü
+endstream
+endobj
+48 0 obj
+<<
+/Length 105
+/Filter /FlateDecode
+>>
+stream
+x⁄„*‰r
+·2T0 BCCK=#SKK3=c3Öê\.˝å‘ú2=sscK#cÖê4∞bÖ w(£(]!⁄∆‘ÿ‹»ÃàÕRåLçÕÕMÃÕÃ,ÕíÏbCº∏\C∏π Ë ~
+endstream
+endobj
+49 0 obj
+<<
+/Length 105
+/Filter /FlateDecode
+>>
+stream
+x⁄„*‰r
+·2T0 BCS3=3K#KCc=cs3cÖê\.˝å‘ú2s=KC#†HXµÅBê;îQîÆmcjlndf	ƒÜf)F¶∆fÜÊ&ÊffñfIv±!^\Æ!\Å\ ¯Üü
+endstream
+endobj
+50 0 obj
+<<
+/Length 105
+/Filter /FlateDecode
+>>
+stream
+x⁄„*‰r
+·2T0 BCCK=#SKK3=c3Öê\.˝å‘ú2=sscK#cÖê4∞bÖ w(£(]!⁄∆‘ÿ‹»ÃàÕRåLçÕÕMÃÕÃ,ÕíÏbCº∏\C∏π Ë ~
+endstream
+endobj
+51 0 obj
+<<
+/Length 101
+/Filter /FlateDecode
+>>
+stream
+x⁄„*‰r
+·2T0 BCC3c=sKc=cs3cÖê\.˝å‘ú2s=KC#†HXµÅBê;îQîÆmcldljbdjbjdbhbbl`lbli‚≈Â¬» dèﬂ
+endstream
+endobj
+52 0 obj
+<<
+/Length 101
+/Filter /FlateDecode
+>>
+stream
+x⁄„*‰r
+·2T0 BCc=sKK3=c3Öê\.˝å‘ú2†åπ±•ë±BHXµÅBê;îQîÆmcldljbdjbjdbhbbl`lbli‚≈Â¬» q·
+endstream
+endobj
+xref
+0 53
+0000000000 65535 f
+0000000015 00000 n
+0000000417 00000 n
+0000000498 00000 n
+0000000101 00000 n
+0000000612 00000 n
+0000000884 00000 n
+0000001139 00000 n
+0000001394 00000 n
+0000001649 00000 n
+0000001932 00000 n
+0000008542 00000 n
+0000008759 00000 n
+0000008939 00000 n
+0000009121 00000 n
+0000009301 00000 n
+0000009483 00000 n
+0000009663 00000 n
+0000009845 00000 n
+0000010021 00000 n
+0000010199 00000 n
+0000010307 00000 n
+0000010420 00000 n
+0000010536 00000 n
+0000010634 00000 n
+0000017994 00000 n
+0000018166 00000 n
+0000018346 00000 n
+0000018526 00000 n
+0000018706 00000 n
+0000018882 00000 n
+0000018988 00000 n
+0000026358 00000 n
+0000026530 00000 n
+0000026710 00000 n
+0000026890 00000 n
+0000027070 00000 n
+0000027246 00000 n
+0000034276 00000 n
+0000034448 00000 n
+0000034628 00000 n
+0000034808 00000 n
+0000034988 00000 n
+0000035164 00000 n
+0000039391 00000 n
+0000039611 00000 n
+0000039791 00000 n
+0000039971 00000 n
+0000040151 00000 n
+0000040331 00000 n
+0000040511 00000 n
+0000040691 00000 n
+0000040867 00000 n
+trailer
+<<
+/Size 53
+/Info 4 0 R
+/Root 1 0 R
+/ID [<4A0468A85E1999526EB47E6111EAEDE7> <4023E6B2496A6A28E140CDF2C1CDBF5E>]
+>>
+startxref
+41043
+%%EOF
